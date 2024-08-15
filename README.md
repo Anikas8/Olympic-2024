@@ -7,7 +7,7 @@ Track the total number of gold medals awarded during the Paris 2024 Olympic Game
 View the number of medals earned by each country, broken down by gold, silver, and bronze.
 ##### Medals Earned by Athletes: 
 Analyzed the achievements of individual athletes, including the total number of medals they have earned across different events.
-####### Interactive Visuals: 
+###### Interactive Visuals: 
 Utilized interactive charts, graphs, and maps to drill down into specific data points, compare trends, and discover key insights.
-######## Custom Filters:
+###### Custom Filters:
 Applied filters to focus on specific data, such as a particular sport, athlete, or country, to tailor the analysis to your needs.
