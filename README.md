@@ -11,7 +11,7 @@ Analyzed the achievements of individual athletes, including the total number of 
 Utilized interactive charts, graphs, and maps to drill down into specific data points, compare trends, and discover key insights.
 ###### Custom Filters:
 Applied filters to focus on specific data, such as a particular sport, athlete, or country, to tailor the analysis to your needs.
-###### Paris Paralympics Python Visualization
+####### Paris Paralympics Python Visualization
 ###### Overview:
 In addition to the Olympic Dashboard, I have completed an exploratory data analysis (EDA) project for the Paris Paralympics using Python. This project delves into various aspects of the Paralympic Games, providing a comprehensive view of athlete participation and performance metrics.
 ###### Key Components of the EDA:
