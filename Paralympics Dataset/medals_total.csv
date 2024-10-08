@@ -1,0 +1,87 @@
+country_code,country,country_long,Gold Medal,Silver Medal,Bronze Medal,Total
+CHN,China,People's Republic of China,94,76,50,220
+GBR,Great Britain,Great Britain,49,44,31,124
+USA,United States,United States of America,36,42,27,105
+NED,Netherlands,Netherlands,27,17,12,56
+NPA,NPA,Neutral Paralympic Athletes,26,22,23,71
+BRA,Brazil,Brazil,25,26,38,89
+ITA,Italy,Italy,24,15,32,71
+UKR,Ukraine,Ukraine,22,28,32,82
+FRA,France,France,19,28,28,75
+AUS,Australia,Australia,18,17,28,63
+JPN,Japan,Japan,14,10,17,41
+GER,Germany,Germany,10,14,25,49
+CAN,Canada,Canada,10,9,10,29
+UZB,Uzbekistan,Uzbekistan,10,9,7,26
+IRI,IR Iran,Islamic Republic of Iran,8,10,7,25
+SUI,Switzerland,Switzerland,8,8,5,21
+POL,Poland,Poland,8,6,9,23
+ESP,Spain,Spain,7,11,22,40
+IND,India,India,7,9,13,29
+COL,Colombia,Colombia,7,7,14,28
+BEL,Belgium,Belgium,7,4,3,14
+THA,Thailand,Thailand,6,11,13,30
+KOR,Korea,Republic of Korea,6,10,14,30
+TUR,Türkiye,Türkiye,6,10,12,28
+CUB,Cuba,Cuba,6,3,1,10
+ALG,Algeria,Algeria,6,0,5,11
+HUN,Hungary,Hungary,5,6,4,15
+TUN,Tunisia,Tunisia,5,3,3,11
+AZE,Azerbaijan,Azerbaijan,4,2,5,11
+ISR,Israel,Israel,4,2,4,10
+MEX,Mexico,Mexico,3,6,8,17
+MAR,Morocco,Morocco,3,6,6,15
+HKG,"Hong Kong, China","Hong Kong, China",3,4,1,8
+GRE,Greece,Greece,3,3,7,13
+VEN,Venezuela,Venezuela,3,2,1,6
+SVK,Slovakia,Slovakia,3,2,0,5
+LAT,Latvia,Latvia,3,1,0,4
+ARG,Argentina,Argentina,2,3,8,13
+DEN,Denmark,Denmark,2,3,5,10
+KAZ,Kazakhstan,Kazakhstan,2,3,4,9
+NGR,Nigeria,Nigeria,2,3,2,7
+EGY,Egypt,Egypt,2,2,3,7
+MAS,Malaysia,Malaysia,2,2,1,5
+POR,Portugal,Portugal,2,1,4,7
+ETH,Ethiopia,Ethiopia,2,1,0,3
+SGP,Singapore,Singapore,2,1,0,3
+RSA,South Africa,South Africa,2,0,4,6
+ECU,Ecuador,Ecuador,2,0,2,4
+JOR,Jordan,Jordan,2,0,1,3
+CRC,Costa Rica,Costa Rica,2,0,0,2
+INA,Indonesia,Indonesia,1,8,5,14
+GEO,Georgia,Georgia,1,4,4,9
+NZL,New Zealand,New Zealand,1,4,4,9
+CZE,Czechia,Czechia,1,4,3,8
+NOR,Norway,Norway,1,3,3,7
+IRL,Ireland,Ireland,1,3,2,6
+SRB,Serbia,Serbia,1,3,2,6
+MGL,Mongolia,Mongolia,1,3,0,4
+IRQ,Iraq,Iraq,1,1,3,5
+CRO,Croatia,Croatia,1,1,2,4
+CHI,Chile,Chile,1,0,5,6
+KUW,Kuwait,Kuwait,1,0,1,2
+NAM,Namibia,Namibia,1,0,1,2
+ROU,Romania,Romania,1,0,1,2
+SLO,Slovenia,Slovenia,1,0,1,2
+BUL,Bulgaria,Bulgaria,1,0,0,1
+KSA,Saudi Arabia,Saudi Arabia,1,0,0,1
+PER,Peru,Peru,1,0,0,1
+TPE,Chinese Taipei,Chinese Taipei,0,3,2,5
+AUT,Austria,Austria,0,3,1,4
+BIH,Bosnia & Herzegovina,Bosnia and Herzegovina,0,2,0,2
+FIN,Finland,Finland,0,1,3,4
+SWE,Sweden,Sweden,0,1,2,3
+CYP,Cyprus,Cyprus,0,1,1,2
+MDA,Republic of Moldova,Republic of Moldova,0,1,1,2
+KEN,Kenya,Kenya,0,1,0,1
+SRI,Sri Lanka,Sri Lanka,0,1,0,1
+TTO,Trinidad and Tobago,Trinidad and Tobago,0,1,0,1
+RPT,RPT,Refugee Paralympic Team,0,0,2,2
+LTU,Lithuania,Lithuania,0,0,1,1
+LUX,Luxembourg,Luxembourg,0,0,1,1
+MNE,Montenegro,Montenegro,0,0,1,1
+MRI,Mauritius,Mauritius,0,0,1,1
+NEP,Nepal,Nepal,0,0,1,1
+PAK,Pakistan,Pakistan,0,0,1,1
+VIE,Vietnam,Vietnam,0,0,1,1
